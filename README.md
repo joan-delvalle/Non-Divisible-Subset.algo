@@ -1,1 +1,1 @@
-# Non-Divisible-Subset.algo
+# Non-Divisible-Subset.algo It reads a list of numbers and an integer k, then finds the largest possible subset where the sum of any two numbers is not divisible by k. The function nonDivisibleSubset (currently empty) will contain the logic to calculate and return the size of that subset.
